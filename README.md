@@ -215,9 +215,9 @@ SectionName_TeamID_ProjectName/
 
 We confirm that all work in this project is original and contributions are verifiable.
 
-**Team Lead:** Vaibhav Vats
+**Team Lead:** Pushkar Jain
 
-**Date:** ___________
+**Date:** 29/04/2026
 
 ## Academic Integrity
 
